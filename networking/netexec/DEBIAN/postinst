@@ -1,2 +1,2 @@
-mv /usr/bin/netexec.bin /usr/bin/netexec
-chmod +x /usr/bin/netexec
+mv /usr/bin/nxc.bin /usr/bin/nxc
+chmod +x /usr/bin/nxc

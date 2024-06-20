@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Categories=Networking;
-Exec=sh -c 'netexec --help; $SHELL'
+Exec=sh -c 'nxc --help; $SHELL'
 Icon=/usr/share/icons/snoopgod/netexec.png
 Name=NetExec
 Terminal=true
