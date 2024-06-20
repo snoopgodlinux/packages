@@ -1,0 +1,6 @@
+Package: subfinder
+Version: 2.6.6
+Priority: optional
+Architecture: amd64
+Maintainer: SnoopGod <contact@snoopgod.com>
+Description: SubFinder is a subdomain discovery tool that returns valid subdomains for websites, using passive online sources.

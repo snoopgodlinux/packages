@@ -1,0 +1,6 @@
+Package: trufflehog
+Version: 3.78.1
+Priority: optional
+Architecture: amd64
+Maintainer: SnoopGod <contact@snoopgod.com>
+Description: Trufflehog is an utitlity to search through git repositories for secrets, digging deep into commit history and branches.

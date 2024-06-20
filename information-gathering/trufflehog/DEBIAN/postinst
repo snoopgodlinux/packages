@@ -1,0 +1,2 @@
+mv /usr/bin/trufflehog.bin /usr/bin/trufflehog
+chmod +x /usr/bin/trufflehog
