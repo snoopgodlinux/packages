@@ -1,0 +1,2 @@
+mv /usr/bin/goldeneye.bin /usr/bin/goldeneye
+chmod +x /usr/bin/goldeneye

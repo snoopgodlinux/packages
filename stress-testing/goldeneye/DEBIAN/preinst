@@ -1,0 +1,2 @@
+rm -f /usr/bin/goldeneye
+rm -f /usr/share/applications/goldeneye.desktop

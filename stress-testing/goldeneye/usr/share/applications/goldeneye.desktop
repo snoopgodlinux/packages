@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Categories=Stress Testing;
+Exec=sh -c 'goldeneye; $SHELL'
+Icon=/usr/share/icons/snoopgod/default.png
+Name=GoldenEye
+Terminal=true
+Type=Application

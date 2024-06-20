@@ -1,0 +1,6 @@
+Package: sublist3r
+Version: 1.1-5
+Priority: optional
+Architecture: amd64
+Maintainer: SnoopGod <contact@snoopgod.com>
+Description: Fast subdomains enumeration tool for penetration testers.

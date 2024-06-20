@@ -1,0 +1,17 @@
+goldeneye for Debian
+--------------------
+
+There are two extra elements in /usr/share/goldeneye directory:
+
+* util/getuas.py - fetchs user-agent lists from http://www.useragentstring.com \
+                   /pages/useragentstring.php subpages. Ex:
+
+                  $ ./getuas.py http://www.useragentstring.com/pages/Browserlist/
+
+                   This program requires beautifulsoup4, provided by python-bs4
+                   and python3-bs4 packages.
+
+* useragents - Text lists (one per line) of User-Agent strings.
+               (from http://www.useragentstring.com)
+
+ -- Joao Eriberto Mota Filho <eriberto@debian.org>  Mon, 26 May 2014 11:41:09 -0300

@@ -1,0 +1,2 @@
+mv /usr/bin/netexec.bin /usr/bin/netexec
+chmod +x /usr/bin/netexec
