@@ -8,15 +8,19 @@
 ## BUILD PACKAGES ##
 ## -------------- ##
 
+## Packages local path
+## -------------------
+packagesdir="/aaa/bbb/ccc/"
+
 ## Build Debian Packages
 ## ---------------------
 function buildpackages()
 {
-    # Create build directory
-    mkdir build
-
     # Define `basepath`
     basepath=$(pwd)
+
+    # Create build directory
+    mkdir "$basepath/build"
 
     # Correct user permissions
     find $basepath/. -type f -name "postinst" -exec chmod +x {} \;
@@ -46,10 +50,15 @@ function buildpackages()
                 ar cr "$deb.deb" debian-binary "$basepath/control.tar.xz" "$basepath/data.tar.xz"
                 rm -f debian-binary "$basepath/control.tar" "$basepath/control.tar.xz" "$basepath/control.tar.zst" "$basepath/data.tar" "$basepath/data.tar.xz" "$basepath/data.tar.zst"
                 mv "$deb.deb" "$basepath/build/$category"
+                reprepro -V --basedir $packagesdir -S $category includedeb noble "$basepath/build/$category/$debname.deb"
                 echo -e "---------------------------------------------------------------"
             fi
         done
     done
+
+    # Remove build directory
+    rm -rf "$basepath/build"
+
 }
 
 ## -------------- ##
