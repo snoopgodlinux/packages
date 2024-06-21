@@ -10,7 +10,7 @@
 
 ## Packages local path
 ## -------------------
-packagesdir="/aaa/bbb/ccc/ddd/"
+packagesdir="/path/to/packages/"
 
 ## Build Debian Packages
 ## ---------------------
