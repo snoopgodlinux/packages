@@ -4,9 +4,9 @@
 # [Website]: https://snoopgod.com/releases/?ver=24.04.2
 # [License]: http://www.gnu.org/licenses/gpl-3.0.html
 
-## -------------- ##
-## BUILD PACKAGES ##
-## -------------- ##
+## ---------------- ##
+## DEFINE FUNCTIONS ##
+## ---------------- ##
 
 ## Packages local path
 ## -------------------
