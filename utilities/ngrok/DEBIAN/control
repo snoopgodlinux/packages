@@ -1,0 +1,6 @@
+Package: ngrok
+Version: 3.0.0
+Priority: optional
+Architecture: amd64
+Maintainer: SnoopGod <contact@snoopgod.com>
+Description: Ngrok combines your reverse proxy, firewall, API gateway, and global load balancing to deliver apps and APIs.

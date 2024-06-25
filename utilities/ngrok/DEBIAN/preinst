@@ -1,0 +1,3 @@
+rm -f /usr/bin/ngrok
+rm -f /usr/share/applications/ngrok.desktop
+rm -f /usr/share/icons/snoopgod/ngrok.png

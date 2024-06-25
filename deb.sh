@@ -10,7 +10,7 @@
 
 ## Packages local path
 ## -------------------
-packagesdir="/path/to/packages/"
+packagesdir="/media/neoslab/Works/Server/www.snoopgod.com/packages/"
 
 ## Build Debian Packages
 ## ---------------------

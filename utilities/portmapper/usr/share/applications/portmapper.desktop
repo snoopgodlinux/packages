@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Categories=Utilities;
+Exec=sh -c '/usr/bin/java -jar /usr/bin/portmapper.jar; $SHELL'
+Icon=/usr/share/icons/snoopgod/portmapper.png
+Name=PortMapper
+Terminal=false
+Type=Application
