@@ -5,20 +5,32 @@
 # [License]: http://www.gnu.org/licenses/gpl-3.0.html
 
 ## ---------------- ##
+## DEFINE VARIABLES ##
+## ---------------- ##
+
+# Define `basepath`
+basepath=$(pwd)
+
+## ---------------- ##
 ## DEFINE FUNCTIONS ##
 ## ---------------- ##
 
-## Packages local path
-## -------------------
-packagesdir="/path/to/repository/"
+## Help Menu
+## ---------
+function helpmenu()
+{
+    echo
+    echo "Usage: ./deb.sh [-h|--help] [-r|--repository]"
+    echo
+    echo "Options:"
+    echo " -h, --help           show this help"
+    echo " --repository         the repository export path"
+}
 
 ## Build Debian Packages
 ## ---------------------
 function buildpackages()
 {
-    # Define `basepath`
-    basepath=$(pwd)
-
     # Create build directory
     mkdir "$basepath/build"
 
@@ -50,7 +62,7 @@ function buildpackages()
                 ar cr "$deb.deb" debian-binary "$basepath/control.tar.xz" "$basepath/data.tar.xz"
                 rm -f debian-binary "$basepath/control.tar" "$basepath/control.tar.xz" "$basepath/control.tar.zst" "$basepath/data.tar" "$basepath/data.tar.xz" "$basepath/data.tar.zst"
                 mv "$deb.deb" "$basepath/build/$category"
-                reprepro -V --basedir $packagesdir -S $category includedeb noble "$basepath/build/$category/$debname.deb"
+                reprepro -V --basedir $repository -S $category includedeb noble "$basepath/build/$category/$debname.deb"
                 echo -e "---------------------------------------------------------------"
             fi
         done
@@ -58,23 +70,38 @@ function buildpackages()
 
     # Remove build directory
     rm -rf "$basepath/build"
-
 }
 
-## -------------- ##
-## EXECUTE SCRIPT ##
-## -------------- ##
+## Callback
+## --------
+while [[ $# -gt 0 ]];
+do
+    case $1 in
+        -h|--help)
+            helpmenu
+            exit 1
+            ;;
+        -r|--repository)
+            repository="$2"
+            shift # past argument
+            shift # past value
+            ;;
+        -*|--*)
+            echo "Unknown option $1"
+            exit 1
+            ;;
+        *)
+            helpmenu
+            ;;
+    esac
+done
 
-## Launch
-## ------
-function launch()
-{
-	# Build Packages
-	buildpackages
-}
-
-## -------- ##
-## CALLBACK ##
-## -------- ##
-
-launch
+## Check Argument
+## --------------
+if [ -n $repository ];
+then
+    buildpackages
+else
+    helpmenu
+    exit 1
+fi
