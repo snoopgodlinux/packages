@@ -1,6 +1,0 @@
-Package: mystdeploy
-Version: 2.0.3
-Priority: optional
-Architecture: amd64
-Maintainer: SnoopGod <contact@snoopgod.com>
-Description: Handling automatically Mysterium node deployment.

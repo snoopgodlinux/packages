@@ -1,4 +1,0 @@
-chmod +x /usr/bin/mystdeploy
-mkdir -p /var/log/mystdeploy
-systemctl enable mystdeploy.service
-systemctl daemon-reload
