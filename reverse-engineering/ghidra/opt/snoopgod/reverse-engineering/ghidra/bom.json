@@ -13,15 +13,15 @@
             "group": "ghidra",
             "name": "LaunchSupport",
             "description": "Ghidra LaunchSupport module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "1056c5c05d8055f79ad80d30c9619aa5"
+                    "content": "214c63718328d2b9e2e5306c095dd9d8"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "52173397256d971a88b0b332db700725dad43a42"
+                    "content": "d526c27da6a585ea117802ba561e3ad4b50b2a84"
                 }
             ],
             "properties": [
@@ -36,15 +36,15 @@
             "group": "ghidra",
             "name": "DMG",
             "description": "Ghidra DMG module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "bb840857b787e5435f3360ffbeba37a6"
+                    "content": "18d929ba17f478211c1d54e6f309e9b8"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "11d356a6def77f8e63f21d04e77b421cf3b5f8ea"
+                    "content": "1f160bd659715e68712d75bf24dbb8359d21fd1a"
                 }
             ],
             "properties": [
@@ -128,15 +128,15 @@
             "group": "ghidra",
             "name": "DMG",
             "description": "Ghidra DMG module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "bb840857b787e5435f3360ffbeba37a6"
+                    "content": "18d929ba17f478211c1d54e6f309e9b8"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "11d356a6def77f8e63f21d04e77b421cf3b5f8ea"
+                    "content": "1f160bd659715e68712d75bf24dbb8359d21fd1a"
                 }
             ],
             "properties": [
@@ -174,15 +174,15 @@
             "group": "ghidra",
             "name": "Public_Release",
             "description": "Ghidra Public_Release module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "412226882c441d2a589436bc9e2f4c15"
+                    "content": "fcfdab793d874e57a35b8b0d98dcb3cf"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "c7942c2a885210c90cfb96b0412bc925b30f606a"
+                    "content": "70954804767a996e5362862242058084bded17ae"
                 }
             ],
             "properties": [
@@ -197,15 +197,15 @@
             "group": "ghidra",
             "name": "Pty",
             "description": "Ghidra Pty module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "ec0bfdaf9dd24f3f4024d9f0e00591c9"
+                    "content": "19c90656affbb183c8b09c5cd63ad420"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "7b29c7a570d6ccd4cb69d649518ebaee7573c323"
+                    "content": "db5c492b27962c2d6ebece03de17a77f6c030784"
                 }
             ],
             "properties": [
@@ -244,15 +244,15 @@
             "group": "ghidra",
             "name": "Emulation",
             "description": "Ghidra Emulation module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "a23896fed456e15c2942c04141171b46"
+                    "content": "2d469b410fe6d3e15e05065a91b198b0"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "a8bcaef1857051cb27a8ea4b2ebdf590337497d2"
+                    "content": "e20934118fce00d0aef0700fa0e48ee409c44491"
                 }
             ],
             "properties": [
@@ -360,15 +360,15 @@
             "group": "ghidra",
             "name": "SoftwareModeling",
             "description": "Ghidra SoftwareModeling module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "bad01617d89c6c3ee8e9f1043cd370ff"
+                    "content": "0e9d69693875b2d9197364f74017e0fb"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "43db6950c88ee648404ea7875058b0f3c50238e8"
+                    "content": "80daf95ecd38679836f7f399f4a0afa3d8fe6248"
                 }
             ],
             "properties": [
@@ -526,15 +526,15 @@
             "group": "ghidra",
             "name": "Graph",
             "description": "Ghidra Graph module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "bef49d64193646391f59488d939fe29d"
+                    "content": "873b3930a7e2216e3639442684624f11"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "253f1580a65a14044ddf9a4f4e77861637b8c4c9"
+                    "content": "3d06cfac5fa0897ab0d7e077397ba622feac3967"
                 }
             ],
             "properties": [
@@ -573,15 +573,15 @@
             "group": "ghidra",
             "name": "FileSystem",
             "description": "Ghidra FileSystem module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "ae8f047aa7e45134d63bb7c1a9367e3e"
+                    "content": "3999c4ff8065567fc9efbf1d6c128259"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "c34699f3d8c7fd050b7390425bfc7937df0182f1"
+                    "content": "2cb8d7a6092611c0c29154a81c20813b4b938aa8"
                 }
             ],
             "properties": [
@@ -596,15 +596,15 @@
             "group": "ghidra",
             "name": "Project",
             "description": "Ghidra Project module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "2a6f880c693c803bd45c623cc970c04b"
+                    "content": "ac83d3245a3e72b4667a19ec5ad4fd7e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "2195298d4f36b21ed1dff3491e75bbbdf1d1dcec"
+                    "content": "965affcc2d7c3d1de5f2c95eea5b7378714bff01"
                 }
             ],
             "properties": [
@@ -642,15 +642,15 @@
             "group": "ghidra",
             "name": "Docking",
             "description": "Ghidra Docking module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "e3cc0369a8a1147250f254b63eb43e30"
+                    "content": "77dd5b9958451dd48c5a89580df09923"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "bc24fe701dfc56c50434e51125d336fff4c0a50d"
+                    "content": "04960b176a3594997a0534c0ad97d2b5885cd7d3"
                 }
             ],
             "properties": [
@@ -665,15 +665,15 @@
             "group": "ghidra",
             "name": "Gui",
             "description": "Ghidra Gui module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "71fe950195bea96df64d376983fdfb0f"
+                    "content": "4f9461c6bb4d3238e7203cc00897e601"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "c67ed513e41ebdf4abf9a8b7e168ba43eadbe66f"
+                    "content": "dbc27f1a85be29d0da96d7ad537c4379b6619224"
                 }
             ],
             "properties": [
@@ -711,15 +711,15 @@
             "group": "ghidra",
             "name": "DB",
             "description": "Ghidra DB module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "5125a8bcc1252c9db564a960606225b3"
+                    "content": "01080cf3efaf37162d51f4b29f443cd3"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "2f2c14a9f46d84dbff2700c9a20b18f85b9592d1"
+                    "content": "e43ed537c9b1722c6d03380da08c62ae90abe8d6"
                 }
             ],
             "properties": [
@@ -994,15 +994,15 @@
             "group": "ghidra",
             "name": "Generic",
             "description": "Ghidra Generic module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "680b4a95c351263ac76ba5b257d4c3a6"
+                    "content": "744a54aa5833d67ac22fe4440984c09e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "658f335c57d1baf8f57cd7c20965553cfff39ca1"
+                    "content": "02247838986342bd7aac1ce52ea69d0b89664a57"
                 }
             ],
             "properties": [
@@ -1089,15 +1089,15 @@
             "group": "ghidra",
             "name": "Help",
             "description": "Ghidra Help module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "23322d03f8f10f520fbdad3906f61ffb"
+                    "content": "10269ee77418e7d20103b9b3eaa274e1"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "2e3462335afbad009ec73620043b17ff9a8e513e"
+                    "content": "38b6e21c463f483d12249e134f2364f5c6fe97d9"
                 }
             ],
             "properties": [
@@ -1158,15 +1158,15 @@
             "group": "ghidra",
             "name": "Utility",
             "description": "Ghidra Utility module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "a9a049d4a776d4c7c3e71f940a57050d"
+                    "content": "28e8a3592e0732c85420c8cd08f080ef"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "9fc3a2974066b7c01d95bb3a1fac2b15105a0184"
+                    "content": "7fe21258daa61c0f7da4d32ddbb25b1a5aad1813"
                 }
             ],
             "properties": [
@@ -1319,15 +1319,15 @@
             "group": "ghidra",
             "name": "FileFormats",
             "description": "Ghidra FileFormats module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "7e09e715f529209ffcd23c06facd0212"
+                    "content": "f19263fae9a02a45170857951830aec2"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "edeaf9bf3fee12cfe320b189be2466ed53914d42"
+                    "content": "863b663f635783a14889cfa0fb32f395c0726e5b"
                 }
             ],
             "properties": [
@@ -1457,15 +1457,15 @@
             "group": "ghidra",
             "name": "FunctionID",
             "description": "Ghidra FunctionID module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "80b60519501f9605bacb4f4673a3ac0a"
+                    "content": "60c4e4a7dbb1ff9c1a5ec8ef77b01319"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "a96c0faa1a13f861405fa057d3e138a2a4c9fbb6"
+                    "content": "1903e17aec970c5ee43254a9b1451ea0a98cbcb0"
                 }
             ],
             "properties": [
@@ -1504,15 +1504,15 @@
             "group": "ghidra",
             "name": "Sarif",
             "description": "Ghidra Sarif module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c533e9bb1fe78571919cf59fb4ad5a1f"
+                    "content": "3b02ff9e405380617ebcab1324198793"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "ebe030e932ea1e1a5cfa64cd3f05cf8056e32f59"
+                    "content": "e9d97b2d31760baa817d1ea46b30bd29ad115c39"
                 }
             ],
             "properties": [
@@ -1527,15 +1527,15 @@
             "group": "ghidra",
             "name": "GhidraServer",
             "description": "Ghidra GhidraServer module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "181f2a9fbeaa8eeb85fd5f304782361f"
+                    "content": "c8b9421f03412c8774e01252f7d91c88"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "50b3296469df6c74e81dae07ff10a99564c37435"
+                    "content": "1d907fd86963ad832fd853326c1d2271f622efba"
                 }
             ],
             "properties": [
@@ -2730,15 +2730,15 @@
             "group": "ghidra",
             "name": "BSimFeatureVisualizer",
             "description": "Ghidra BSimFeatureVisualizer module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "fdfc19831f2d18fd24a631b9e4832fe5"
+                    "content": "d094f289a5f5818c47208b82bf1aa0c1"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "3ca95fa67764b57769f512ab151cb9614ad4d4f8"
+                    "content": "c9d467c7e3774f3da2ff66f64783dc70f1efc482"
                 }
             ],
             "properties": [
@@ -2777,15 +2777,15 @@
             "group": "ghidra",
             "name": "BSim",
             "description": "Ghidra BSim module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "7f6226e5016f2a59f383e299617fac5e"
+                    "content": "b063d01ae65e5e7455e423a16e2a06bb"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "6678f5519a2dad1d087b06f483c95743a004535f"
+                    "content": "7a0081ed3e6db53458f49053b3a25e51d3e8a816"
                 }
             ],
             "properties": [
@@ -2918,15 +2918,15 @@
             "group": "ghidra",
             "name": "CodeCompare",
             "description": "Ghidra CodeCompare module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "28d80758ef25f03863cbb37442f5b143"
+                    "content": "1e36bd80e5bafa8de60b3b020f5cee57"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "c1c3fa3bfcf00d80158f21ea2bb2879839b4da18"
+                    "content": "4bdd2ddeb18a908567b2ace79701aa072737af71"
                 }
             ],
             "properties": [
@@ -2941,15 +2941,15 @@
             "group": "ghidra",
             "name": "GhidraGo",
             "description": "Ghidra GhidraGo module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "35c2ed0b8630a7bcf2d2f854dbe30372"
+                    "content": "80733f2cc755af36cd7b392adcc215fb"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "fdb327787732aed0b2bf647412ff1b6d3b18ac57"
+                    "content": "cbf22794375d8ffe7df70a44d69ba7a3402e9083"
                 }
             ],
             "properties": [
@@ -2964,15 +2964,15 @@
             "group": "ghidra",
             "name": "Python",
             "description": "Ghidra Python module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "3337cd847b2f04f15045080b5cdca2b8"
+                    "content": "042b86b391cd0fec0f937013031d35a3"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "37b2e8ccd2cd2b3491318d5d2d0d9a38cf373961"
+                    "content": "9e6a5ea3f5ac0085cdb5d862aac33908afcc5fd3"
                 }
             ],
             "properties": [
@@ -3010,15 +3010,15 @@
             "group": "ghidra",
             "name": "SystemEmulation",
             "description": "Ghidra SystemEmulation module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "b5b13b30f41b070faa96722c4fd6d5b7"
+                    "content": "710a4e9fb1e7a1916f61461e2257e45f"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "297a5c89c3450876287191819cf81e2dd42428ef"
+                    "content": "ebe9b61fe4dbc894be9f06a58897ee3a803d1071"
                 }
             ],
             "properties": [
@@ -3033,15 +3033,15 @@
             "group": "ghidra",
             "name": "GnuDemangler",
             "description": "Ghidra GnuDemangler module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "bb403504511fe2e5224ebc235dba7e03"
+                    "content": "ffb75bc1e4e61c0912c5cfebe3f55ccc"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "c99c3dbf1d607f3307a2c6ad9cb023265c037239"
+                    "content": "f3cb54540fb0118a4c125b615a887e6319899ee3"
                 }
             ],
             "properties": [
@@ -3056,15 +3056,15 @@
             "group": "ghidra",
             "name": "MicrosoftDmang",
             "description": "Ghidra MicrosoftDmang module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "4ab51ad5fdc04253972978fe2e4992e9"
+                    "content": "7175622ed463d3aef2ad91668b94bbe8"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "836a35d360c6da5c84617fd23e0b80272afdefd6"
+                    "content": "0afdfd442de56e980b33bf1691d75635915ed48c"
                 }
             ],
             "properties": [
@@ -3079,15 +3079,15 @@
             "group": "ghidra",
             "name": "ByteViewer",
             "description": "Ghidra ByteViewer module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "e00a520bcc62c5b597ab29d81a0d92aa"
+                    "content": "1e080528c3167c12383b56cd3cf91b72"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "3685cf13605eb45575dd1512e98170495d43e215"
+                    "content": "80a0eb6d7954f3de661de1420ce40d9535d3ff6e"
                 }
             ],
             "properties": [
@@ -3102,15 +3102,15 @@
             "group": "ghidra",
             "name": "SourceCodeLookup",
             "description": "Ghidra SourceCodeLookup module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "db193440f83dd5520bd2e003bdc5a99b"
+                    "content": "486f8a10aea8e9098254b89a75f6c9ef"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "d275ddb138dbcbc0f2264725cd32d38ea33330cd"
+                    "content": "ef68c26760c13825e3cb14bb37a3f64162044b30"
                 }
             ],
             "properties": [
@@ -3125,15 +3125,15 @@
             "group": "ghidra",
             "name": "SwiftDemangler",
             "description": "Ghidra SwiftDemangler module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "4f65d1a46c7d4e0cbda3e0207ccb5a8a"
+                    "content": "661e701a03924ea8bf35048039103b00"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "7630b678541cf0ee5f19c664a12e4fc6ac74b4f6"
+                    "content": "9a96bf8635bfb89de26a2ee6eaa61ade1ed9d3ba"
                 }
             ],
             "properties": [
@@ -3148,15 +3148,15 @@
             "group": "ghidra",
             "name": "VersionTracking",
             "description": "Ghidra VersionTracking module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "59b81d8595b703f5983118d6b8717c3e"
+                    "content": "ec1f9e0877ba6da739e65a665347b8f0"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "f057dc606e71d673b520149585aa68e84ab86c2f"
+                    "content": "7f6a09ad8e4e21447e9a8b1f4acb695c54b2ca8e"
                 }
             ],
             "properties": [
@@ -3171,15 +3171,15 @@
             "group": "ghidra",
             "name": "Decompiler",
             "description": "Ghidra Decompiler module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "afd5c8b26d685a4dc41db530a50f6f78"
+                    "content": "d4c5366454bcb9de233b3845fe303321"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "381275e35ff8594344f34830ffaf35697ab83366"
+                    "content": "300fefad14ea7e4fd8852d57a7df6c1d5ca1e8c8"
                 }
             ],
             "properties": [
@@ -3194,15 +3194,15 @@
             "group": "ghidra",
             "name": "FunctionGraphDecompilerExtension",
             "description": "Ghidra FunctionGraphDecompilerExtension module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "abb1987c1037d91410e5365ef18b20ea"
+                    "content": "b37cf6fb23d9bfbca3ec758a952e7f5c"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "1c1f58cfc393982b60cf2ac5e764faa12b23b607"
+                    "content": "96421b43de4692326185e4e4eec18e407c943a13"
                 }
             ],
             "properties": [
@@ -3217,15 +3217,15 @@
             "group": "ghidra",
             "name": "WildcardAssembler",
             "description": "Ghidra WildcardAssembler module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "11ed93abf036c059a118778f0096e85d"
+                    "content": "6d2f9ebd16fdbd029576973f00024bce"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "6b7319e65e1d96f63677a001eb148f582059e919"
+                    "content": "20a410c639a25dc552861f96d82da4b0e09651cb"
                 }
             ],
             "properties": [
@@ -3240,15 +3240,15 @@
             "group": "ghidra",
             "name": "Recognizers",
             "description": "Ghidra Recognizers module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "2eba3a08751aba1ef71bd62de0adf89c"
+                    "content": "55482089066511faa5bafc51739cc876"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "1160c950cb019d4ad0b2bb0c5a347f213e84bafc"
+                    "content": "4ba8908f96571e8772327824ff31aa32ebd81495"
                 }
             ],
             "properties": [
@@ -3263,15 +3263,15 @@
             "group": "ghidra",
             "name": "DecompilerDependent",
             "description": "Ghidra DecompilerDependent module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "01e6834a9b02dbeccbd326bcca3cfb78"
+                    "content": "c348c01a994eda94380cea5a6c158b4b"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "69bc0765f89f5dcb99bb00bfcc44bcb2f6e6005d"
+                    "content": "5dfe2337f2bd761478bca6f90d0da29a78e9b835"
                 }
             ],
             "properties": [
@@ -3286,15 +3286,15 @@
             "group": "ghidra",
             "name": "FunctionGraph",
             "description": "Ghidra FunctionGraph module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "a21f8a88873dd37eeb1ce2b0413a5b28"
+                    "content": "b89fb71bc6d705eb526b9dc3887de102"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "1cef277a65393f8584580323acd8aa914f50b53e"
+                    "content": "27269c053bc0eda129198a781ebec3eef4f266b9"
                 }
             ],
             "properties": [
@@ -3309,15 +3309,15 @@
             "group": "ghidra",
             "name": "VersionTrackingBSim",
             "description": "Ghidra VersionTrackingBSim module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "7b5a9f514054a7ea1d80cb6b6279fb3e"
+                    "content": "a923602fd597458f6bd200e5248f343a"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "b501b95e2c6bcd8619a8ede7be4bdab19b02ef47"
+                    "content": "3a7963d49565d085703e82981a64ad8b4ffd2be4"
                 }
             ],
             "properties": [
@@ -3332,15 +3332,15 @@
             "group": "ghidra",
             "name": "MicrosoftDemangler",
             "description": "Ghidra MicrosoftDemangler module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "a92fb555cd46fd5b1a1d1f8084dd4833"
+                    "content": "016fb5079be3e9e8b588303f04d94824"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "f63b78f67b6aa4de3d816e780ddde5a717252648"
+                    "content": "d902aa3a73bc4f2ca3c47f5569c11007b6818a4d"
                 }
             ],
             "properties": [
@@ -3355,15 +3355,15 @@
             "group": "ghidra",
             "name": "MicrosoftCodeAnalyzer",
             "description": "Ghidra MicrosoftCodeAnalyzer module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "6fa3981cdf224453216aec54d25d4e27"
+                    "content": "4471ce61ce6324328ec5f0c07fcc041e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "450f83c534bc29042392aad80b048a6d4190ee71"
+                    "content": "559c4c81a43b528df36207c8e05db5c1cc4f56a6"
                 }
             ],
             "properties": [
@@ -3378,15 +3378,15 @@
             "group": "ghidra",
             "name": "BytePatterns",
             "description": "Ghidra BytePatterns module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c4340634d0c6ef54f71f4fed8f8da5e8"
+                    "content": "2b61a6de0919ee50925959a5e9472a75"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "da76e1c10891272f2ea84babaef3df8dd8df1ec7"
+                    "content": "58ddc73e7f46cdf87716ef9f19c626783fcb348f"
                 }
             ],
             "properties": [
@@ -3401,15 +3401,15 @@
             "group": "ghidra",
             "name": "DebugUtils",
             "description": "Ghidra DebugUtils module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "9e6ee5b091dd7abd79b7bf939b0abc90"
+                    "content": "646bc0b836bf263c883ad64d84d678d5"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "ba52fc9d1f8b7e37b08db9e4c22d8356d48335b0"
+                    "content": "7e03fbc38c900fbcfa183c3189b56255246e5a9c"
                 }
             ],
             "properties": [
@@ -3424,15 +3424,15 @@
             "group": "ghidra",
             "name": "ProgramGraph",
             "description": "Ghidra ProgramGraph module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "afc05c1dd90241f5d45abaeec4a6200a"
+                    "content": "c5aaf95ff05f01b4a87f00b5396e4f4f"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "a755594f4338e7a4202d4201d540624989fd65a4"
+                    "content": "2e80f83ccaa794e48231d93f9913798c285d4d66"
                 }
             ],
             "properties": [
@@ -3447,15 +3447,15 @@
             "group": "ghidra",
             "name": "PDB",
             "description": "Ghidra PDB module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "987f76198dbd1bdc27d0b74a8d9ff696"
+                    "content": "370f79a3565594ae30f9dc09b6c2985e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "299f4707c04086a1010e48f3fb843e6905bcf64d"
+                    "content": "1708c3792e8fa611a3ebde12d201d53996f7172f"
                 }
             ],
             "properties": [
@@ -3470,15 +3470,15 @@
             "group": "ghidra",
             "name": "GraphFunctionCalls",
             "description": "Ghidra GraphFunctionCalls module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c88d6b14bc5fa6041b1c8c4fb72162a6"
+                    "content": "a95dd6d9c26a887ce01d6f36a6ec45ca"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "aa525937363017df6463e4a6a8b5d67837034e00"
+                    "content": "5bfaf2090bf753e43a7275f0edd9b87f2aa5ac92"
                 }
             ],
             "properties": [
@@ -3588,15 +3588,15 @@
             "group": "ghidra",
             "name": "Base",
             "description": "Ghidra Base module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "7a29e0f12f5ef3620c5c6a3122181d5c"
+                    "content": "9b0f0929c2a5baf9e9f51a789ca9862e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "d2473bad8caff4af6a2d9ecf2386877c7b283a91"
+                    "content": "c1abb742db4c2f840297c4608781ef0563f47d03"
                 }
             ],
             "properties": [
@@ -3802,15 +3802,15 @@
             "group": "ghidra",
             "name": "GraphServices",
             "description": "Ghidra GraphServices module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "a86ddf7fa7b700f4452e029395904c3c"
+                    "content": "0f9648aad4f75d32bac04e566bcb37f2"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "1e0ce6d2acc1f523a6fe4665b28b8c513e20acf6"
+                    "content": "66b35a06b018a77f15e26e559dc22a703283ce5a"
                 }
             ],
             "properties": [
@@ -3825,15 +3825,15 @@
             "group": "ghidra",
             "name": "ProgramDiff",
             "description": "Ghidra ProgramDiff module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "995707f11f993ae038fbbfb72d209cd2"
+                    "content": "c12bc4db9abb1d6cac332bdc9a4f011a"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "115d43bda36f094f1656123e90fd40f22a13355f"
+                    "content": "e4d540cf557b07400e05ed208da94f1cb96f3b52"
                 }
             ],
             "properties": [
@@ -3848,15 +3848,15 @@
             "group": "ghidra",
             "name": "V850",
             "description": "Ghidra V850 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "ba1bae8b4cba7044d574be6067ffd583"
+                    "content": "21538187e37869f96306d6c5c587d6a0"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "ff6edc965c5a9110a1748794743bf087e52c9460"
+                    "content": "59684c1b399f91ff5d09d433406d7650ad3609a1"
                 }
             ],
             "properties": [
@@ -3871,15 +3871,15 @@
             "group": "ghidra",
             "name": "TI_MSP430",
             "description": "Ghidra TI_MSP430 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "d1e9b916066c3e0c873ff4de552e6547"
+                    "content": "51831727db3224a1af4e960bff34f3e1"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "62b180d60e18620f40798dd20a6a78e9fe854911"
+                    "content": "d76138f6480b461b92aa7cd226906ede15f8b826"
                 }
             ],
             "properties": [
@@ -3894,15 +3894,15 @@
             "group": "ghidra",
             "name": "Xtensa",
             "description": "Ghidra Xtensa module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "3f1fe6f90da3fb111e6d53ea5536f4d3"
+                    "content": "cecc2ae121590e212aee03b42d42ef33"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "37c4340c25200dadbe4b7651589923fb894ad2cc"
+                    "content": "b10c4c974f7a6386db97061b1e9e078f15324ca9"
                 }
             ],
             "properties": [
@@ -3917,15 +3917,15 @@
             "group": "ghidra",
             "name": "PowerPC",
             "description": "Ghidra PowerPC module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c1075d079ad318f29e92185b08022f8d"
+                    "content": "4d4f964bb8cd237d70f9489961ed71c7"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "6c48a37d6173e6a82f387f32cfbe21e990df12ce"
+                    "content": "1f61df124015de47babaffd28ff79c1dd3e4d854"
                 }
             ],
             "properties": [
@@ -3940,15 +3940,15 @@
             "group": "ghidra",
             "name": "HCS12",
             "description": "Ghidra HCS12 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "e4222ae7de52a4f818db3a9951ba0721"
+                    "content": "23ccf2c708b4449cf61998abe671c127"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "732eac690e065c3099b3c51b78a28806f1a28ab7"
+                    "content": "7a7f1eadb4f7383776a33828c45dc1139fefe67f"
                 }
             ],
             "properties": [
@@ -3963,15 +3963,15 @@
             "group": "ghidra",
             "name": "Dalvik",
             "description": "Ghidra Dalvik module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "3651bd6a4d4cf4c227c67edd95a14b8e"
+                    "content": "1020f38036d70dfca887a12a427224d4"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "96099dd0fb2f5c52cf5ff565d5d6f489dafe710a"
+                    "content": "15e80d177b6406c25fabe18f2eca08a1ef696a35"
                 }
             ],
             "properties": [
@@ -3986,15 +3986,15 @@
             "group": "ghidra",
             "name": "JVM",
             "description": "Ghidra JVM module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "10e36e2af6c8810e371816d963ddd521"
+                    "content": "9158a2557cbc9413378f9b34042cf7b0"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "f8170e421ad4a23669dad2d9de6db40883dae5b8"
+                    "content": "cc9c01e152e49529902ec595214e5ab8a7ba9d95"
                 }
             ],
             "properties": [
@@ -4009,15 +4009,15 @@
             "group": "ghidra",
             "name": "Loongarch",
             "description": "Ghidra Loongarch module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c82c969eb117a3dc73ef819ac0bfbbea"
+                    "content": "80486ec4f2bfc608083e4722d7cfb68e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "60b8078cf44693b5402a98222b274093d42ef88a"
+                    "content": "5fdded2698dd70027d09d615937487692ca7f330"
                 }
             ],
             "properties": [
@@ -4032,15 +4032,15 @@
             "group": "ghidra",
             "name": "MIPS",
             "description": "Ghidra MIPS module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "109a954419493b2e2baef39bd62ec74c"
+                    "content": "3ca38a89e5094989dd645126314d43d5"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "507f6fd9f9396a7e173b61f2603d673febb26dbd"
+                    "content": "90f560fd653fb72ea1e45c404ee4cc9358d62836"
                 }
             ],
             "properties": [
@@ -4055,15 +4055,15 @@
             "group": "ghidra",
             "name": "tricore",
             "description": "Ghidra tricore module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "5910b080baff8499d9b1bdfcc9e6c735"
+                    "content": "e1216cda1c4b29a2f95e8f1e5405106e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "7d7c682d733147232510da6e7657d65f2f272fde"
+                    "content": "02543711e8fd4ea9650839586e74f79c644c25d2"
                 }
             ],
             "properties": [
@@ -4078,15 +4078,15 @@
             "group": "ghidra",
             "name": "PIC",
             "description": "Ghidra PIC module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "9ae2caa472d4a89754ff6ccc37f8cf1e"
+                    "content": "a12929038b88608ac6cea5721db8f1b9"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "681317c318b40d88be7771a2b088ff082d7d8d29"
+                    "content": "23c284564bfc663930c29d67edfd03d7ef9fe89e"
                 }
             ],
             "properties": [
@@ -4101,15 +4101,15 @@
             "group": "ghidra",
             "name": "SuperH4",
             "description": "Ghidra SuperH4 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c5072ad51115ea98be10444771355d7c"
+                    "content": "406cec4959644075eca07a4a9e7d93ca"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "8b920a1758eff2f2ff119ea7591b9704b2171475"
+                    "content": "577b0d562f1211c3c2813f1b0fc416d43efddf8d"
                 }
             ],
             "properties": [
@@ -4124,15 +4124,15 @@
             "group": "ghidra",
             "name": "x86",
             "description": "Ghidra x86 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "07c95e0e630f1525c1b8be31cd47044f"
+                    "content": "2d0576a6504770ca733560f68cf02060"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "9e6ebb5faff71c7e5104c34313e13c7a73983977"
+                    "content": "8739e71a246adb301e9a4a33e881a6eb20fa4f02"
                 }
             ],
             "properties": [
@@ -4147,15 +4147,15 @@
             "group": "ghidra",
             "name": "8051",
             "description": "Ghidra 8051 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "933be327e208c0d0797a6acb939e0b8c"
+                    "content": "db395d9f0d25b276c7d8d003988dec67"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "44986838918451743752466fc0fafbc6cd6404f3"
+                    "content": "686022b6ef1f811d250a6fc540c943c6f39ef535"
                 }
             ],
             "properties": [
@@ -4170,15 +4170,15 @@
             "group": "ghidra",
             "name": "68000",
             "description": "Ghidra 68000 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "f6bad25ae82be62126ff73321379c38c"
+                    "content": "bd87f961f5a73e3eed5d08ab20168ac9"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "4e71b7e5ebf9cd188bd061eea3920f8a0e3e50f9"
+                    "content": "bcf2695b71df39e176c50620f2ad228c7c3fe5a1"
                 }
             ],
             "properties": [
@@ -4193,15 +4193,15 @@
             "group": "ghidra",
             "name": "ARM",
             "description": "Ghidra ARM module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "43fb86c624ed13531145c92b9608138f"
+                    "content": "e45a7d3cf8dc7d15e8fc7b01fd757472"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "5fed4d7d6e96c4cdd149801e5b2462d0699bed99"
+                    "content": "f288c84c9b478275480bdec2fc5f722d8bf2fc45"
                 }
             ],
             "properties": [
@@ -4216,15 +4216,15 @@
             "group": "ghidra",
             "name": "eBPF",
             "description": "Ghidra eBPF module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "6a07bed95c65a251bfa1b850a2cad17a"
+                    "content": "47e3bc7b85a84e0fa35b3e0cf2c87678"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "7418cf5b4dddf98004c0588e80678bde9998f48f"
+                    "content": "58d926e60a95ec7af9e83d504215e37755d617e0"
                 }
             ],
             "properties": [
@@ -4239,15 +4239,15 @@
             "group": "ghidra",
             "name": "RISCV",
             "description": "Ghidra RISCV module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "4c10553d3ed9f09c327651fa32ce7cfc"
+                    "content": "58a2fdd16d85cdb72f6828c4ca017883"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "a19075657567fab8139aef6df4d1d1fa9c6aacf0"
+                    "content": "09faac13b8f4c2d72213523231c0a2793f5b1591"
                 }
             ],
             "properties": [
@@ -4262,15 +4262,15 @@
             "group": "ghidra",
             "name": "DATA",
             "description": "Ghidra DATA module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c890246f044dc1e5904af73a10a7ef12"
+                    "content": "8ad2b8787217e4d8f7554a9c952668f7"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "16d3e9cc82f3d7797cc4b920cbcb411752948b6c"
+                    "content": "413902ec302e7469bbfb8d590e37ac2a92ecfcd7"
                 }
             ],
             "properties": [
@@ -4285,15 +4285,15 @@
             "group": "ghidra",
             "name": "AARCH64",
             "description": "Ghidra AARCH64 module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "9bb508e247c4247486a660052ddaf343"
+                    "content": "e3cec8c578c3ff4226331db26730b57c"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "22a272702201ae6611d538c1fccad8eddd53dbec"
+                    "content": "194f90efac54099c4c1e35ae67cc9b9e984b2f23"
                 }
             ],
             "properties": [
@@ -4308,15 +4308,15 @@
             "group": "ghidra",
             "name": "Sparc",
             "description": "Ghidra Sparc module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "0a9e690926bfddfba77107fd7e0f1222"
+                    "content": "3c6a74e52c480e1a808b7a5707649b49"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "76ce96445d398955e1cbdad16e9c2f433a1c5b4d"
+                    "content": "3cf1a7152aab43c8a2106ac990ae0e2df9e3a535"
                 }
             ],
             "properties": [
@@ -4331,15 +4331,15 @@
             "group": "ghidra",
             "name": "Atmel",
             "description": "Ghidra Atmel module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "cf291022b45aab870d895c42066140ff"
+                    "content": "ed89559a9f4f01880773a293ea725b99"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "025e8b8d90ebc6e55d40a7194e9c5212fad85c57"
+                    "content": "3064b31f83a3317a1d889128e1197bd77f0acb11"
                 }
             ],
             "properties": [
@@ -4354,15 +4354,15 @@
             "group": "ghidra",
             "name": "Framework-AsyncComm",
             "description": "Ghidra Framework-AsyncComm module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "b496590e0d8865ff900daa0ca312a1a7"
+                    "content": "47ba888583c76bb20c4d576bf4aea208"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "652fea4ccd651a40bc9cc2ed8d9257325fcbd541"
+                    "content": "90871a5877014c65e60f06c544d95fb7d37be8c2"
                 }
             ],
             "properties": [
@@ -4424,15 +4424,15 @@
             "group": "ghidra",
             "name": "Framework-Debugging",
             "description": "Ghidra Framework-Debugging module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "a09a3cbbd66109de3741094180eb36dd"
+                    "content": "a3172593dab42d173c3a488f24059b39"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "777c292da711e0a886ef75478b8b41a60596cea1"
+                    "content": "6eb4ef35361b6c346ab1f7d8e1f8fcd6ad17e783"
                 }
             ],
             "properties": [
@@ -4470,15 +4470,15 @@
             "group": "ghidra",
             "name": "Debugger-agent-dbgmodel",
             "description": "Ghidra Debugger-agent-dbgmodel module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "372f6667ae8decb30b338b3a90117fb5"
+                    "content": "3ab07742264cc9c77e2e4658008ed234"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "94ed945ad720a11a566e1f56f326e7c1c20c55ce"
+                    "content": "9c75fa0421aa8b4f548b64e8640923b7217dcd58"
                 }
             ],
             "properties": [
@@ -4493,15 +4493,15 @@
             "group": "ghidra",
             "name": "Debugger-rmi-trace",
             "description": "Ghidra Debugger-rmi-trace module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "7c7905ec3f1b9491fdee9a0510f8a301"
+                    "content": "131e3db53226a24ce417cd1f46de141a"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "9428016e4a19669e1dc7a07593f4e0dfd996a1b0"
+                    "content": "53275478b6aea3ae574340a5dbbf4b188e1886a7"
                 }
             ],
             "properties": [
@@ -4516,15 +4516,15 @@
             "group": "ghidra",
             "name": "Debugger-agent-lldb",
             "description": "Ghidra Debugger-agent-lldb module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "e2ea82ffca109cfe10464ec75fd085af"
+                    "content": "8b8604371ae5689a2cac3c27915b5c42"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "747b920edb660e4fa381238851532ac80e2f3d15"
+                    "content": "c6a00898506107275a71582a0877b80872f3e44b"
                 }
             ],
             "properties": [
@@ -4539,15 +4539,15 @@
             "group": "ghidra",
             "name": "Debugger-api",
             "description": "Ghidra Debugger-api module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "d36470e623bc17cbb4a6902d4349ee56"
+                    "content": "96c2e83b79a5216cad0d289541b35104"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "978bedea8c2de9b510d9341e976772e6406ba97b"
+                    "content": "3bf6ca743d8af98b1497d2ea2dfbb8645e051e11"
                 }
             ],
             "properties": [
@@ -4562,15 +4562,15 @@
             "group": "ghidra",
             "name": "Framework-TraceModeling",
             "description": "Ghidra Framework-TraceModeling module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "5cf2f0805a5c7cbbfee4652a942b16eb"
+                    "content": "8501ccba9682bef211f42280423874cb"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "f7f74cc9dd8cef0284ab116d57f2a2a1c5d2e197"
+                    "content": "706b1b9b6980cb281dab8e6fffbb5a515c37bad6"
                 }
             ],
             "properties": [
@@ -4585,15 +4585,15 @@
             "group": "ghidra",
             "name": "Debugger-agent-gdb",
             "description": "Ghidra Debugger-agent-gdb module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c8f3ed9238d757c1d281ca9c120dae06"
+                    "content": "cfc330ba29832779babfe4565c9f7c2e"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "e54e364c2acf7aaa4998ea8d24d75f72f4335b13"
+                    "content": "6c7cee0b73145a3f4287189942b94bc177814b78"
                 }
             ],
             "properties": [
@@ -4608,15 +4608,15 @@
             "group": "ghidra",
             "name": "Debugger-agent-dbgmodel-traceloader",
             "description": "Ghidra Debugger-agent-dbgmodel-traceloader module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "1c31928f8f4ea6ad233b701960e8d8ce"
+                    "content": "a3a39401e180c1adf09749343fd4e1ef"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "4dd42e42c12281b026040cc7825521466a112228"
+                    "content": "f122f84e54b337f876883ce1566b6175c5240e58"
                 }
             ],
             "properties": [
@@ -4631,15 +4631,15 @@
             "group": "ghidra",
             "name": "AnnotationValidator",
             "description": "Ghidra AnnotationValidator module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "7887a74c11566724ecdb19756bd3bd83"
+                    "content": "7af47a92128aa5ca976ff1bab65d8740"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "b10661db46f465c3ca364f479c9bfb41b6471508"
+                    "content": "1f32f744516debc1ebe7e43c1f079d019e5f5152"
                 }
             ],
             "properties": [
@@ -4654,15 +4654,15 @@
             "group": "ghidra",
             "name": "Debugger-jpda",
             "description": "Ghidra Debugger-jpda module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "4a0ad5abf60620ca7a99aa829ef9d335"
+                    "content": "c7799dd85e4ffe69588b86586e7c4326"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "8e7258027c2f140851058396cedfb04c6dd6e00f"
+                    "content": "a05f8412c7a6d5012e8762340da5d91f22add350"
                 }
             ],
             "properties": [
@@ -4677,15 +4677,15 @@
             "group": "ghidra",
             "name": "Debugger",
             "description": "Ghidra Debugger module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "5e9f9c56dcccabec2599db9472a56453"
+                    "content": "d65b3109dfc03da0cfa4304a20e7cef1"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "1edad0591b668c94fdafaf9cb565984f776ad465"
+                    "content": "b511dc0f990deda975338106b0c03552df8787a2"
                 }
             ],
             "properties": [
@@ -4700,15 +4700,15 @@
             "group": "ghidra",
             "name": "Debugger-swig-lldb",
             "description": "Ghidra Debugger-swig-lldb module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "17aac0cab6b0cb9cea5ca7f46c4412ed"
+                    "content": "9f7d0ca600451f31ae7e98eff28092a0"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "9500d584cdcf33756d02ddd018985134a7f11114"
+                    "content": "2fb93d1955e416a3ee933136472fab5d7875b043"
                 }
             ],
             "properties": [
@@ -4723,15 +4723,15 @@
             "group": "ghidra",
             "name": "TaintAnalysis",
             "description": "Ghidra TaintAnalysis module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "ed43cede8dbceca88772b6d3a552a2b2"
+                    "content": "f5dddac6b895e25e828c6a437aa0f631"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "5160f01acc2b1492360d71b93109246f0821a359"
+                    "content": "730192049c888019bb498be41c16dc456eb59035"
                 }
             ],
             "properties": [
@@ -4746,15 +4746,15 @@
             "group": "ghidra",
             "name": "Debugger-isf",
             "description": "Ghidra Debugger-isf module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "18aea86ae965f833872d899a0c53ab3a"
+                    "content": "c514daa6c202fc4a2b06977b529e84cb"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "acb5e722fe77cc1e2cf78c8e5e97fea632726a0d"
+                    "content": "ae965efc40b4c0a8f0b1b2b688a623e9f80bb754"
                 }
             ],
             "properties": [
@@ -4769,15 +4769,15 @@
             "group": "ghidra",
             "name": "ProposedUtils",
             "description": "Ghidra ProposedUtils module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "b81977024f16427e644718799c3a2a19"
+                    "content": "eb62b6a47fa65a50a402e24fa28490b4"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "25bdf30c3ff135d4083da53a9fe7986c3b0b5431"
+                    "content": "bc46892bb235b73b8fa5e3532381ecb2ce1fc9fb"
                 }
             ],
             "properties": [
@@ -4792,15 +4792,15 @@
             "group": "ghidra",
             "name": "Debugger-agent-dbgeng",
             "description": "Ghidra Debugger-agent-dbgeng module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "61962eedd19b27089e1750918e216826"
+                    "content": "420d3f914d6b3890ab1ebcb848cea9df"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "b4a25a8a56b2b855d5e291632d260dcd589ad33b"
+                    "content": "500cba1be32889ec45c79c747f9e00cac856f2cf"
                 }
             ],
             "properties": [
@@ -4815,15 +4815,15 @@
             "group": "ghidra",
             "name": "Debugger-agent-frida",
             "description": "Ghidra Debugger-agent-frida module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "fa5320a9472f02e9bc878123fc898bc1"
+                    "content": "9941c4c6c77f92d80a7cf0df8d21d9a1"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "fcf0fb0ed3c3e182ec20b6544a0c611c61ed0b9b"
+                    "content": "eab2f82d2c8d6343a7af1ab41a79493b37d1d2f7"
                 }
             ],
             "properties": [
@@ -4838,15 +4838,15 @@
             "group": "ghidra",
             "name": "Debugger-gadp",
             "description": "Ghidra Debugger-gadp module",
-            "version": "11.1.1",
+            "version": "11.1.2",
             "hashes": [
                 {
                     "alg": "MD5",
-                    "content": "c65302bb3eb2a13a26c18cbc325059d5"
+                    "content": "83c1fa4a44e03f283d4a4560b3fb8af7"
                 },
                 {
                     "alg": "SHA-1",
-                    "content": "8322df9cd846f2e809a5f9ddc40b8db5620aabc6"
+                    "content": "0aab3c0561f19dc3fa23067ef40c6d53665cd37e"
                 }
             ],
             "properties": [

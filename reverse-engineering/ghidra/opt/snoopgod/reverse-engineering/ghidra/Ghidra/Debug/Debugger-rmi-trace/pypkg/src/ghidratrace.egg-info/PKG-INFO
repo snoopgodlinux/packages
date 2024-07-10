@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ghidratrace
-Version: 11.1
+Version: 11.1.2
 Summary: Ghidra's TraceRmi for Python3
 Author: Ghidra Development Team
 Project-URL: Homepage, https://github.com/NationalSecurityAgency/ghidra
