@@ -1,0 +1,6 @@
+Package: snoopgod-maintainer
+Version: 1.0.1
+Priority: optional
+Architecture: amd64
+Maintainer: SnoopGod <contact@snoopgod.com>
+Description: SnoopGod system packages maintainer.

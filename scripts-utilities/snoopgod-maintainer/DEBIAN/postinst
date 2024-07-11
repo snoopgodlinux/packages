@@ -1,0 +1,5 @@
+chmod +x /usr/local/bin/snoopgod
+chmod +x /usr/share/snoopgod/usr/bin/updater
+chmod +x /usr/share/snoopgod/usr/bin/upgrader
+chmod +x /usr/share/snoopgod/usr/bin/ucleaner
+chmod +x /usr/share/snoopgod/usr/bin/rcleaner

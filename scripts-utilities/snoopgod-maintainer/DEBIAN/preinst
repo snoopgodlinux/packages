@@ -1,0 +1,2 @@
+rm -f /usr/local/bin/snoopgod
+rm -rf /usr/share/snoopgod
