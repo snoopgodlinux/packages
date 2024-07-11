@@ -2,5 +2,5 @@ Package: ddrescue
 Version: 1.99.13
 Priority: optional
 Architecture: amd64
-Maintainer: SnoopGod <contact@snoopgod.com>
+Maintainer: NeosLab <info@neoslab.com>
 Description: Ddrescue copies data from one file (or device or pipe) to others.

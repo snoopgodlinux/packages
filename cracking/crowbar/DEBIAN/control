@@ -2,5 +2,5 @@ Package: crowbar
 Version: 4.2.0
 Priority: optional
 Architecture: amd64
-Maintainer: SnoopGod <contact@snoopgod.com>
+Maintainer: NeosLab <info@neoslab.com>
 Description: Crowbar is a brute forcing tool that can be used during penetration tests.

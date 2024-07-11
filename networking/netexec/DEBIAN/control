@@ -2,5 +2,5 @@ Package: netexec
 Version: 1.2.0
 Priority: optional
 Architecture: amd64
-Maintainer: SnoopGod <contact@snoopgod.com>
+Maintainer: NeosLab <info@neoslab.com>
 Description: NetExec (AKA nxc) is a network service exploitation tool that helps automate assessing the security of large networks.

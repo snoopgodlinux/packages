@@ -2,5 +2,5 @@ Package: torbridge
 Version: 2.0.5
 Priority: optional
 Architecture: amd64
-Maintainer: SnoopGod <contact@snoopgod.com>
+Maintainer: NeosLab <info@neoslab.com>
 Description: Redirect all traffic through Tor network including DNS queries for anonymizing entire system.
