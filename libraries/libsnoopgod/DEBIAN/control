@@ -1,4 +1,4 @@
-Package: snoopgod-maintainer
+Package: libsnoopgod
 Version: 1.0.1
 Priority: optional
 Architecture: amd64
