@@ -88,20 +88,27 @@ do
             ;;
         -*|--*)
             echo "Unknown option $1"
+            helpmenu
             exit 1
             ;;
         *)
             helpmenu
+            exit 1
             ;;
     esac
 done
 
 ## Check Argument
 ## --------------
-if [ -n $repository ];
-then
-    buildpackages
-else
+if [ -z "$repository" ]; then
     helpmenu
     exit 1
 fi
+
+if [ ! -d "$repository" ]; then
+    echo "Invalid repository path: $repository"
+    helpmenu
+    exit 1
+fi
+
+buildpackages
