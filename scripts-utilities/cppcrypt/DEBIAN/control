@@ -1,0 +1,6 @@
+Package: cppcrypt
+Version: 1.0.1
+Priority: optional
+Architecture: amd64
+Maintainer: NeosLab <info@neoslab.com>
+Description: CppCrypt is a Python script designed to obfuscate C++ source code by renaming variables and functions.
