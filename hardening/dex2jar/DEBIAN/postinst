@@ -5,7 +5,6 @@ chmod +x /opt/snoopgod/hardening/dex2jar/d2j-baksmali.sh
 chmod +x /opt/snoopgod/hardening/dex2jar/d2j-class-version-switch.sh
 chmod +x /opt/snoopgod/hardening/dex2jar/d2j-decrypt-string.sh
 chmod +x /opt/snoopgod/hardening/dex2jar/d2j-dex2jar.sh
-chmod +x /opt/snoopgod/hardening/dex2jar/d2j-dex2smali.sh
 chmod +x /opt/snoopgod/hardening/dex2jar/d2j-dex-recompute-checksum.sh
 chmod +x /opt/snoopgod/hardening/dex2jar/d2j-dex-weaver.sh
 chmod +x /opt/snoopgod/hardening/dex2jar/d2j-invoke.sh
@@ -22,7 +21,6 @@ ln -s /opt/snoopgod/hardening/dex2jar/d2j-baksmali.sh /usr/bin/d2j-baksmali
 ln -s /opt/snoopgod/hardening/dex2jar/d2j-class-version-switch.sh /usr/bin/d2j-class-version-switch
 ln -s /opt/snoopgod/hardening/dex2jar/d2j-decrypt-string.sh /usr/bin/d2j-decrypt-string
 ln -s /opt/snoopgod/hardening/dex2jar/d2j-dex2jar.sh /usr/bin/d2j-dex2jar
-ln -s /opt/snoopgod/hardening/dex2jar/d2j-dex2smali.sh /usr/bin/d2j-dex2smali
 ln -s /opt/snoopgod/hardening/dex2jar/d2j-dex-recompute-checksum.sh /usr/bin/d2j-dex-recompute-checksum
 ln -s /opt/snoopgod/hardening/dex2jar/d2j-dex-weaver.sh /usr/bin/d2j-dex-weaver
 ln -s /opt/snoopgod/hardening/dex2jar/d2j-invoke.sh /usr/bin/d2j-invoke

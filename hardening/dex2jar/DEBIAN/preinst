@@ -4,7 +4,6 @@ rm -f /usr/bin/d2j-baksmali
 rm -f /usr/bin/d2j-class-version-switch
 rm -f /usr/bin/d2j-decrypt-string
 rm -f /usr/bin/d2j-dex2jar
-rm -f /usr/bin/d2j-dex2smali
 rm -f /usr/bin/d2j-dex-recompute-checksum
 rm -f /usr/bin/d2j-dex-weaver
 rm -f /usr/bin/d2j-invoke
